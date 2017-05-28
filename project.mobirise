@@ -424,6 +424,30 @@
           "articleLayout": false
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "A strange encounter",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -483,6 +507,30 @@
           },
           "_anchor": "slider3-1",
           "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "The stag and the vineyard",
+          "meta": ""
         },
         {
           "_tags": [

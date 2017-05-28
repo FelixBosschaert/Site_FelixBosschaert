@@ -7,6 +7,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -424,6 +426,20 @@ h6,
 }
 #msg-box8-0 .mbr-section-title SPAN {
   text-align: left;
+  font-family: 'Arimo', sans-serif;
+}
+#header3-1 .mbr-section-title,
+#header3-1 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1 H3 {
+  font-family: 'Arimo', sans-serif;
+}
+#header3-0 .mbr-section-title,
+#header3-0 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-0 H3 {
   font-family: 'Arimo', sans-serif;
 }
 #slider2-0 .mbr-section-title,
